@@ -4,7 +4,7 @@
 #include "ui_mainwindow.h"
 
 
-#define version "FileToUDP 1.0"
+#define version "FileToUDP 1.1"
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
     , ui(new Ui::MainWindow)
